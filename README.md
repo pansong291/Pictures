@@ -7,3 +7,5 @@
 ![pic name](pic url)
 ```
 https://github.com/pansong291/Pictures/raw/master/***
+
+https://pansong291.github.io/Pictures/***
